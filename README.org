@@ -1,0 +1,10 @@
+* Trinsic
+
+Common Lisp utility system to aid in extrinsic and intrinsic system
+construction.
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/s-expressionists/Trinsic.git |
+| commit  | 03f8ead                                             |
+| systems | trinsic                                             |
+|---------+-----------------------------------------------------|
