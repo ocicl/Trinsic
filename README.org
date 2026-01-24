@@ -5,6 +5,6 @@ construction.
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/s-expressionists/Trinsic.git |
-| commit  | 6303b29                                             |
+| commit  | 3a370f9                                             |
 | systems | trinsic                                             |
 |---------+-----------------------------------------------------|
